@@ -1,15 +1,13 @@
 # netflix-clone<br>
+https://caroline-thais.github.io/netflixClone/
+---
 
-
-
-<div align="center">
-<h3>Site de filmes utilizando JavaScript, HTML e CSS.<h3>
+JavaScript | HTML | CSS
   
 
 ![R6EyNM_0c8adf5b5e79acedd30fb040773a04dc_00-00-00_00-00-42_2](https://user-images.githubusercontent.com/76595905/175010222-5c735988-2e88-4359-8e40-f28b7301f437.gif)
 
 
-</div>
 
 ---
 <img width="1306" alt="Captura de Tela 2022-06-18 às 18 30 31" src="https://user-images.githubusercontent.com/76595905/174457621-45e9364f-2fbc-458b-9b1e-396413358699.png">
